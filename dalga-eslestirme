@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dalga Eşleştirme - Gizlilik Politikası</title>
+<style>
+  body {
+    font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    background: #0A0A12;
+    color: #F4F4FF;
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+  }
+  h1 { font-size: 24px; margin-bottom: 4px; }
+  .updated { color: #8A8AA3; font-size: 13px; margin-bottom: 32px; }
+  h2 { font-size: 17px; margin-top: 32px; color: #B829FF; }
+  p, li { color: #D8D8E8; font-size: 15px; }
+  a { color: #00F5FF; }
+  ul { padding-left: 20px; }
+</style>
+</head>
+<body>
+  <h1>Dalga Eşleştirme - Gizlilik Politikası</h1>
+  <p class="updated">Son güncelleme: 22 Haziran 2026</p>
+
+  <p>Dalga Eşleştirme ("uygulama"), bir sinyal eşleştirme bulmaca oyunudur. Bu sayfa, uygulamayı kullanırken hangi
+  verilerin nasıl işlendiğini açıklar.</p>
+
+  <h2>1. Hesap ve sunucu yok</h2>
+  <p>Uygulamanın kendi sunucusu, kullanıcı hesabı veya kayıt sistemi yoktur. Oyunu oynamak için herhangi bir kişisel
+  bilgi (ad, e-posta, telefon numarası vb.) girmeniz gerekmez.</p>
+
+  <h2>2. Cihazda yerel olarak saklanan veriler</h2>
+  <p>Skorların, istatistiklerin, seviye ilerlemen, ayarların ve oyun içi bakiyen (Yankı) sadece kendi cihazında,
+  yerel olarak saklanır. Bu veriler hiçbir sunucuya gönderilmez; uygulamayı kaldırdığında bu veriler de silinir.</p>
+
+  <h2>3. Reklamlar (Google AdMob)</h2>
+  <p>Uygulamanın ücretsiz kalabilmesi için Google AdMob aracılığıyla reklam gösterilir. AdMob, reklamları
+  sunmak ve (izin verilmişse) kişiselleştirmek amacıyla reklam kimliği gibi cihaz tanımlayıcılarını ve kullanım
+  verilerini işleyebilir. Bu işleme Google'ın kendi gizlilik politikalarına tabidir:
+  <a href="https://policies.google.com/privacy" target="_blank">policies.google.com/privacy</a> ve
+  <a href="https://www.google.com/policies/technologies/ads/" target="_blank">google.com/policies/technologies/ads</a>.
+  Reklam kişiselleştirme tercihlerini cihazının Google Ayarları üzerinden yönetebilirsin.</p>
+  <p>Uygulama içindeki "Reklamları Kaldır" satın alımı, bölüm arası reklamları tamamen kaldırır. Ödüllü reklamlar
+  (süre uzatma, sinyal geçme, Yankı kazanma gibi isteğe bağlı faydalar) bundan etkilenmez ve her zaman isteğe
+  bağlıdır.</p>
+
+  <h2>4. Google Play Games Services (isteğe bağlı)</h2>
+  <p>İstersen Google Play Games hesabınla giriş yaparak çevrimiçi skor tablolarına ve başarılara katılabilirsin.
+  Giriş yapmayı seçersen, skor/başarı verilerin Google Play Games Services aracılığıyla Google'a iletilir. Bu
+  özellik tamamen isteğe bağlıdır; giriş yapmadan da oyunun tüm özellikleri tam olarak çalışır.</p>
+
+  <h2>5. Satın Alımlar (Google Play Billing)</h2>
+  <p>Uygulama içi satın alımlar (örn. "Reklamları Kaldır") tamamen Google Play'in kendi ödeme altyapısı üzerinden
+  işlenir. Uygulama hiçbir zaman kredi kartı veya ödeme bilgini görmez ya da saklamaz - sadece satın alımın
+  tamamlandığı bilgisi cihazında yerel olarak işaretlenir.</p>
+
+  <h2>6. Üçüncü taraflarla veri paylaşımı</h2>
+  <p>Uygulama, yukarıda belirtilen Google hizmetleri (AdMob, Play Games Services, Play Billing) dışında hiçbir
+  üçüncü tarafla veri paylaşmaz, veri satmaz.</p>
+
+  <h2>7. Çocukların gizliliği</h2>
+  <p>Uygulama genel kitleye yönelik bir bulmaca oyunudur ve bilerek çocuklardan kişisel veri toplamaz.</p>
+
+  <h2>8. Bu politikadaki değişiklikler</h2>
+  <p>Bu politika zaman zaman güncellenebilir. Güncel sürüm her zaman bu sayfada yer alır.</p>
+
+  <h2>9. İletişim</h2>
+  <p>Sorularınız için: <a href="mailto:mstf.isparta10@gmail.com">mstf.isparta10@gmail.com</a></p>
+</body>
+</html>
